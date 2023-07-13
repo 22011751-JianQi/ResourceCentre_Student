@@ -3,6 +3,7 @@ import java.util.ArrayList;
 //xing rong
 //saiful
 //Hamzah
+//JianQi
 
 public class ResourceCentre {
 

@@ -10,6 +10,7 @@ import org.junit.Test;
 //xing rong
 //Saiful
 //Hamzah
+//JianQi
 
 public class ResourceCentreTest {
 	// prepare test data
